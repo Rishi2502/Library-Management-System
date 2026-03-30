@@ -24,6 +24,7 @@ This project demonstrates core Java concepts such as Object-Oriented Programming
 * 📤 Issue books
 * 📥 Return books
 * 💾 Data persistence using file handling
+* Stores book data in a file (books.txt)
 
 ---
 
